@@ -1,6 +1,6 @@
-# Product Analytics \[номер группы\]
+# Product Analytics 2022-01
 
 
 ### Занятия
 
-- [Урок название](lessons/lesson.folder/)
+- [Урок 5: Знакомство с SQL](lessons/lesson.05/)
