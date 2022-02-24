@@ -1,4 +1,4 @@
-# Знакомство с SQL
+# SQL JOINS
 
 ## Практическое задание
 - Примените SQL скрипт, доступный по [ссылке](https://gist.github.com/mahenzon/8bebc905d82c49da4db7556ff6ca6106), на MariaDB
